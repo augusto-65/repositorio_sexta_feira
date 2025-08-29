@@ -1,3 +1,5 @@
+#este é um comentário de uma linha
+
 import pgzrun
 import random
 

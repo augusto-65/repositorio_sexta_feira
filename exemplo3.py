@@ -1,1 +1,3 @@
 exemplo
+
+print("exemplo")
